@@ -6,12 +6,12 @@
 
 <br>
   
-- <b>⚠ [Vulnerability Management Projects]https://github.com/Crimson7th/Active-Directory-Lab
+- <b>💻💻 [Active Directory Project]https://github.com/Crimson7th/Active-Directory-Lab
  
   <br>
   <br>
 
    <h1>Threat Hunting Scenarios</h1>
   
-- <b>🚨🚨  [Threat-Hunting-Scenario-Tor]https://github.com/Crimson7th/Ticketing-System</b>
+- <b>🎟🎫🎟  [Ticketing System]https://github.com/Crimson7th/Ticketing-System</b>
 
